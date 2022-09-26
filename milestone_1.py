@@ -2,7 +2,7 @@
 import random
 #Create a list of your favorite fruits
 word_list = ["apple", "banana", "pineapple", "mango", "grapes"]
-print(word_list)
+# print(word_list)
 #Using the random module, randomly print one of your favorite fruit
 word = random.choice(word_list)
 print(word)
